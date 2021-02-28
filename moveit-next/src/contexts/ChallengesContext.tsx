@@ -83,8 +83,7 @@ export function ChallengesProvider({ children, ...rest }: ChallengesProviderProp
 
     if (Notification.permission === 'granted') {
       new Notification('Novo Desafio 🎉', {
-        body: `Valendo ${challenge.amount} xp!`,
-        icon: '/favicon.png'
+        body: `Valendo ${challenge.amount} xp!`
       })
     }
   }

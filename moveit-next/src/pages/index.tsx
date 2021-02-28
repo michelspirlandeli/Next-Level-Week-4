@@ -26,7 +26,7 @@ export default function Home(props: HomeProps) {
         <Head>
           <title>Inicio | move.it</title>
         </Head>
-
+       
         <ExperienceBar />
 
         <CountDownProvider>
