@@ -7,7 +7,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/michelspirlandeli/Next-Level-Week-4">
   	
-  <a href="https://www.linkedin.com/in/gabriel-pereira-oliveira-78b1801ab/">
+  <a href="https://www.linkedin.com/in/michel-spirlandeli/">
     <img alt="Made by michelspirlandeli" src="https://img.shields.io/badge/made%20by-michelspirlandeli-%2304D361">
   </a>
 	  
